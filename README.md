@@ -16,7 +16,7 @@ Simply add `https://raw.githubusercontent.com/Trip7274/RTL-Fix-CSS/refs/heads/ma
 You're free to open an issue/PR for proposals, however, web-app CSS is *not* my expertise, so I may not be able to help much, sorry. (not that I won't at least try to!)
 
 ----
-#### Arabic  -  ألعربية
+#### Arabic  -  العربية
 ### حول
 هذا ثيم او قصاصة CSS تحل مشكلة إتجاهات الكتابة العربية في دسكورد، دسكورد يبدأ الكتابة العربية من اليمين اذا انت تكتب رسالة، بس كل الرسائل المرسلة تبدأ من اليسار، وذلك ممكن يسبب انزعاج وانت تتكلم باللغة العربية في دسكورد.
 
@@ -27,7 +27,7 @@ You're free to open an issue/PR for proposals, however, web-app CSS is *not* my 
 
 بكل بساطة، بعدما تثبت Vencord، أظف `https://raw.githubusercontent.com/Trip7274/RTL-Fix-CSS/refs/heads/main/RTL-Fix.css` الى ثيماتك عبر (User settings -> Themes -> Online Themes) ثم إلصاق الرابط في الفراغ الكبير.
 
-## طرق ألمساعدة
+## المساهمه
 هذا مشروع مفتوح المصدر، وهذا يعني ان، لو لديك خبره وشغف، تستطيع ان تبدأ Issue اعلاه او Pull request للشكوى عن مشاكل ممكنه او المساعده في التطوير.
 أتمنى من أي شخص يريد المساعده هنا أن يكتب باللغة العربية والانجليزية اذ امكن، بذلك استخدام ادوات ذكاء اصطناعي او ترجمه حاسوبية (ترجمه قوقل)، او ترجمة يدوية. (لأن بعض الاشياء البرمجية ممكن أسهل للفهم بالانجليزي)
 أنا قد لا استطيع المساعدة ببعض الاشياء بسبب عدم خبرتي بالمجال هذا، ولكن سأحاول تقديم ما أقدر عليه
