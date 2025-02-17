@@ -5,11 +5,7 @@
  * @description Fixes inconsistency in RTL languages between the message box and chat log
  */
 
-:is(main, section)[class^=chatContent]>form,
-form>div[class^=submitContainer] {
-	>div>div[class^=channelTextArea] {
-		>div[class^=scrollableContainer]>div>div[class^=textArea]>div>div[role=textbox]>div {
-			text-align: left !important;
-		}
-	}
+div.editor__1b31f[role=textbox]>div {
+	text-align: left !important;
 }
+
